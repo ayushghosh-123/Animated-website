@@ -93,7 +93,7 @@ nav{
     /* background:orange; */
     display: flex;
     align-items: flex-end;
-    justify-content: space-between;
+    justify-content: space-around;
     border-bottom: 1px solid rgba(1, 1, 1, 0.508);
     padding-bottom: 2.5vw;
 }
@@ -360,8 +360,8 @@ nav{
         text-align: center;
     }
     #left h3 {
-        width: 80%;
-        font-size: 4vw;
+        width: 100%;
+        font-size: 20vw;
     }
     #centre h1 {
         font-size: 12vw;
@@ -376,7 +376,7 @@ nav{
         text-align: center;
     }
     #page2-bottom h1 {
-        font-size: 6vw;
+        font-size: 4vw;
         width: 90%;
     }
     #bottom-part2 {
@@ -388,6 +388,10 @@ nav{
     #footer h1 {
         font-size: 15vw;
     }
+    #page2 #gooie{
+        margin-top: 43vw;
+        padding-left: 44vw;
+    }
 }
 
 /* Tablets (601px to 1024px) */
@@ -397,7 +401,7 @@ nav{
         text-align: center;
     }
     #left h3 {
-        font-size: 2vw;
+        font-size: 5vw;
     }
     #centre h1 {
         font-size: 8vw;
