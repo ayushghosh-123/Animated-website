@@ -11,7 +11,8 @@
 
 ---
 ### TO VIIT MY WEBSITE -
-[https://animatiionwebsite.netlify.app/](CLICK HERE)
+
+https://animatiionwebsite.netlify.app/
 
 ---
 KEEP LEARNING KEEP GROWING 👍
