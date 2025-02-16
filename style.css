@@ -360,6 +360,7 @@ nav{
         text-align: center;
     }
     #left h3 {
+        margin-top: 15vw;
         width: 100%;
         font-size: 20vw;
     }
@@ -389,7 +390,7 @@ nav{
         font-size: 15vw;
     }
     #page2 #gooie{
-        margin-top: 43vw;
+        margin-top: 54vw;
         padding-left: 44vw;
     }
 }
