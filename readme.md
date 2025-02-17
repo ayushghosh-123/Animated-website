@@ -11,7 +11,7 @@
 3. JS
 
 ---
-### TO VIIT MY WEBSITE -
+### TO VISIT MY WEBSITE -
 
 https://animatiionwebsite.netlify.app/
 
